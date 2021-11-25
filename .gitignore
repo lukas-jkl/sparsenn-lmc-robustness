@@ -1,0 +1,26 @@
+.idea/
+.vscode/
+__pycache__/
+venv/
+desktop.ini
+
+
+# Ignore datasets, models and experiment results
+datasets/
+experiment_results/
+experiments/
+models/
+
+# Don't track google cloud key
+gcloud_key.json
+
+# Models
+*.pt
+
+# Data
+*.csv
+*.pkl
+*.log
+
+# Tensorboard
+**.tfevents**

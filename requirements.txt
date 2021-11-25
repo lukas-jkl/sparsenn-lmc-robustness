@@ -1,0 +1,13 @@
+google-cloud-storage
+gpustat
+numpy
+pandas
+simanneal
+torch
+torchvision
+tqdm
+seaborn
+tensorboard
+names
+sklearn
+wget
